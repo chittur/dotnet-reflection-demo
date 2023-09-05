@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Executive": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\krish\\source\\repos\\GuiAndDistributedDemo\\Networking\\bin\\Debug\\net6.0\\Networking.dll"
+    }
+  }
+}
